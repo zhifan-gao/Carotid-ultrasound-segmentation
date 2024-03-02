@@ -1,8 +1,5 @@
 ## Bias and Counterexample: Efficiently Utilized Pseudo Label for Semi-supervised Carotid Intima- Media Segmentation
 
-> Authors:  Tianyu Lin, Minhua Lu, and Zhifan Gao
-
-
 
 ### Background
 
